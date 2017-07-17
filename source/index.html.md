@@ -10,6 +10,7 @@ toc_footers:
    - <a href='https://github.com/lavkumarv'>Documentation Powered by lav</a> 
 
 includes: 
+   - slateExample
    - errors 
 
 search: true 

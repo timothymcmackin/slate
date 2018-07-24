@@ -25,6 +25,22 @@ We have language bindings in Shell, Ruby, Python, and JavaScript! You can view c
 
 This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
+
+# Test ordered lists with code samples
+
+1. First item
+1. Second item
+1. Third item
+
+> Code sample before fourth item
+
+```ruby
+# Ruby code sample goes here
+```
+1. Fourth item
+1. Fifth item
+
+
 # Authentication
 
 > To authorize, use this code:
